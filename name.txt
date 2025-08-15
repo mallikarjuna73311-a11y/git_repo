@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Hello Malli
 what are you learning
-=======
->>>>>>> parent of 65c9887 (my changes)
+Hello Bhagavan
